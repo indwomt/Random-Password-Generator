@@ -7,6 +7,9 @@ This webpage is a random password generator. Users have the option to choose len
 ##Preview Image 
 ![Random Password Generator Preview](https://github.com/indwomt/Random-Password-Generator/blob/main/Assets/03-javascript-homework-demo.png)
 
+## Deployment Link
+https://indwomt.github.io/Random-Password-Generator/
+
 ##License 
 
 MIT Public Use
